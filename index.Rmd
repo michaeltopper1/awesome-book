@@ -3,7 +3,7 @@ title: "Data Wrangling for Economists - Graduate Edition"
 author: 
   - Michael Topper^[UC Santa Barbara, michaeltopper@ucsb.edu]
   - with Select Chapter Written by Danny Klinenberg^[UC Santa Barbara, dklinenberg@ucsb.edu]
-date: "`r Sys.Date()`"
+date: "Last Updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
